@@ -46,6 +46,19 @@ You need a PS5 with **kstuff** running, and **[ShadowMountPlus](https://github.c
 
 ---
 
+## Controls
+
+| DualSense | Xbox 360 |
+|---|---|
+| ✕ ○ □ △ | A B X Y |
+| L1 / R1 | LB / RB |
+| L2 / R2 | LT / RT |
+| OPTIONS | Start |
+| **Touchpad click** | Back |
+| **Touchpad hold** | Guide |
+
+---
+
 ## Building
 
 **Toolchain:** PS5 payload SDK and RADV from [PS5_Vulkan](https://github.com/mihawk-99/PS5_Vulkan) (built first), on Linux or WSL, plus LLVM 18.
